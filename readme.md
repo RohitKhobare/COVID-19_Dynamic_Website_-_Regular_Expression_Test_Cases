@@ -4,6 +4,10 @@ A software testing and quality assurance mini-project containing a PHP/MySQL COV
 
 **Project team:** Rohit Khobare
 
+## Deployment
+
+https://rohitmk.ifree.page/
+
 ## Project contents
 
 - `covid-tms/` — PHP website, public pages, administrator pages, styles, scripts, and vendor assets.
