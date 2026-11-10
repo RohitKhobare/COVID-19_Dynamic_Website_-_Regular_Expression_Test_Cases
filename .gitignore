@@ -1,0 +1,7 @@
+/Test/target/
+/Test/test-output/
+/covid-tms/reportfiles/*.pdf
+/.idea/
+/.vscode/*.log
+Thumbs.db
+.DS_Store
