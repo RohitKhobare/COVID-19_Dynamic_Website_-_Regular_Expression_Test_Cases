@@ -82,6 +82,5 @@ If only the static informational landing page is needed on GitHub Pages, publish
 
 The SQL dump contains only table definitions; its prior sample patient, staff, test, and administrator rows were removed. The Selenium fixtures now use generic test values and load administrator credentials from environment variables. Generated test output and report PDFs are excluded from Git by the root `.gitignore`; review any new files before publishing. The local database settings in `covid-tms/includes/config.php` are development defaults, not production credentials.
 
-## Repository
-
-The requested GitHub repository is [RohitKhobare/COVID-19_Dynamic_Website_-_Regular_Expression_Test_Cases](https://github.com/RohitKhobare/COVID-19_Dynamic_Website_-_Regular_Expression_Test_Cases).
+Rohit Manesh Khobare
+rohitkhobre2005@gmail.com
